@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyBAL5RSUdV8zUQmZdU0AIG5zNzhSsx5NWs",
-  authDomain: "connetclub.firebaseapp.com",
-  databaseURL: "https://connetclub-default-rtdb.firebaseio.com",
-  projectId: "connetclub",
-  storageBucket: "connetclub.firebasestorage.app",
-  messagingSenderId: "178414934169",
-  appId: "1:178414934169:web:7702fbda7f28e1249b0008"
+  apiKey: "AIzaSyDJFYGxbhXR9jrkpCXdWmATwM7ywG9pwNw",
+  authDomain: "fazzamirate.firebaseapp.com",
+  databaseURL: "https://fazzamirate-default-rtdb.firebaseio.com",
+  projectId: "fazzamirate",
+  storageBucket: "fazzamirate.appspot.com",
+  messagingSenderId: "427144354536",
+  appId: "1:427144354536:web:a2d7668c23f67752d4075d",
 };
 firebase.initializeApp(firebaseConfig);
 
